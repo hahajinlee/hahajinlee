@@ -7,7 +7,8 @@ I'm hajin Lee
 ---
 * 2020.06 ~ 2021.08 | Machine Learning based anomaly detection for smart factory project [AI]
 * 2021.04 ~ 2021.06 |
-* 2022.03 ~  | Genga Game Using Leap Motion 
+* 2022.03 ~ 06 | Genga Game Using Leap Motion 
+* 2022.09 ~ | HIS
 
 ### 🛠️ Tech Stack
 ---
